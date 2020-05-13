@@ -94,7 +94,7 @@ layout: post
 ### Fork method
 1. Fork this repository
 
-2. Delete the unnecessary files/folders: `CODE_OF_CONDUCT.md`, `LICENSE`, `README.md`, `tale.gemspec`
+2. Delete the unnecessary files/folders: `LICENSE`, `README.md`, `tale.gemspec`
 
 3. Delete the `baseurl` line in `_config.yml`:
 
